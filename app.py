@@ -34,7 +34,7 @@ def load_image(image_file):
     pass
 
 def main():
-    st.image("./img2.jpg",use_column_width=True)
+    st.image("./img.jpg",use_column_width=True)
 
 
     st.title("Tomato Disease Prediction")
